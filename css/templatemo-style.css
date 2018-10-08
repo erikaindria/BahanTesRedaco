@@ -327,11 +327,11 @@ bootstrap.min.css:5
   color: #f7c552;
 }
 
-#portoflio .page-section {
+#hobby .page-section {
 	padding: 0px;
 }
 
-#portfolio .section-heading {
+#hobby .section-heading {
 	padding-top: 200px;
 	padding-bottom: 200px;
 	background-color: #33c1cf;
@@ -340,11 +340,11 @@ bootstrap.min.css:5
 	padding-left: 100vh;
 }
 
-#portfolio .project-item {
+#hobby .project-item {
 	margin: 0px -16px;
 }
 
-#portfolio .section-heading h4 {
+#hobby .section-heading h4 {
 	margin-top: 0px;
 	font-size: 20px;
 	text-transform: uppercase;
@@ -353,14 +353,14 @@ bootstrap.min.css:5
 	letter-spacing: 1px;
 }
 
-#portfolio .section-heading .line-dec {
+#hobby .section-heading .line-dec {
 	width: 270px;
 	height: 1px;
 	background-color: rgba(250, 250, 250, 0.5);
 	margin: 20px 0px 15px 0px;
 }
 
-#portfolio .section-heading p {
+#hobby .section-heading p {
 	color: #fff;
 	padding-right: 70px;
 }
@@ -792,7 +792,7 @@ footer .connect-us ul li a:hover {
 		margin-bottom: 80px;
 	} 
 
-	#portfolio .section-heading {
+	#hobby .section-heading {
 		text-align: center;
 		padding-top: 100px;
 		padding-bottom: 100px;
@@ -805,11 +805,11 @@ footer .connect-us ul li a:hover {
 		overflow: hidden;
 	}
 
-	#portfolio .section-heading .line-dec {
+	#hobby .section-heading .line-dec {
 		margin: 20px auto 15px auto;
 	}
 
-	#portfolio .section-heading p {
+	#hobby .section-heading p {
 		padding: 0px 20px;
 	}
 
@@ -818,7 +818,7 @@ footer .connect-us ul li a:hover {
 		padding: 15px 0px;
 	}
 
-	#portfolio .project-item {
+	#hobby .project-item {
 		margin: 15px 0px;
 	}
 
